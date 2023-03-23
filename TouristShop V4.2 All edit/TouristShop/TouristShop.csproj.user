@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Add\ElsePages\Buyer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\ElsePages\Distributor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\ElsePages\Tenant.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Backpack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Caremat.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Clothes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Dish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Electronic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Equipment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Food.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Literature.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Shoe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\SleapingBag.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Add\Goods\Tent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\ElsePages\Buyer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\ElsePages\Distributor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\ElsePages\Tenant.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Backpack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Caremat.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Clothes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Dish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Electronic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Equipment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Food.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Literature.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Shoe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\SleapingBag.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Edit\Goods\Tent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\Buyer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\Distributor.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\Exit.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\Goods.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\MainMenu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElsePages\Setting.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElseSettings\AboutProgram.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\ElseSettings\Feedback.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Backpack.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Caremat.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Clothes.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Dish.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Electronic.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Equipment.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Food.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Literature.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Shoe.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\SleapingBag.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Show\Goods\Tent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\ElsePages\Buyer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\ElsePages\Distributor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\ElsePages\Tenant.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Backpack.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Caremat.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Clothes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Dish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Electronic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Equipment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Food.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Literature.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Shoe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\SleapingBag.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Add\Goods\Tent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\ElsePages\Buyer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\ElsePages\Distributor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\ElsePages\Tenant.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Backpack.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Caremat.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Clothes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Dish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Electronic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Equipment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Food.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Literature.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Shoe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\SleapingBag.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Edit\Goods\Tent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\Buyer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\Distributor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\Exit.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\Goods.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\MainMenu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElsePages\Setting.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElseSettings\AboutProgram.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\ElseSettings\Feedback.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Backpack.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Caremat.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Clothes.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Dish.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Electronic.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Equipment.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Food.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Literature.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Shoe.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\SleapingBag.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Show\Goods\Tent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
