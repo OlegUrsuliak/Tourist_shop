@@ -1,0 +1,214 @@
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.AssemblyReference.cache
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop_MarkupCompile.cache
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop_MarkupCompile.lref
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.exe
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.deps.json
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.runtimeconfig.json
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.runtimeconfig.dev.json
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\ref\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.g.resources
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.AssemblyInfoInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.AssemblyInfo.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.CopyComplete
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\ref\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.genruntimeconfig.cache
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Exit.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\MainMenu.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Exit.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\MainMenu.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Buyer.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Distributor.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Goods.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Setting.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Backpack.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Buyer.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Distributor.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Goods.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Setting.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Backpack.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Backpack.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Caremat.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Clothes.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Dish.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Electronic.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Equipment.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Food.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Literature.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Shoe.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\SleapingBag.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Tent.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Caremat.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Clothes.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Dish.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Electronic.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Equipment.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Food.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Literature.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Shoe.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\SleapingBag.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Tent.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Backpack.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Caremat.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Clothes.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Dish.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Electronic.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Equipment.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Food.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Literature.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Shoe.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\SleapingBag.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Tent.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Caremat.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Clothes.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Dish.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Electronic.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Equipment.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Food.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Literature.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Shoe.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\SleapingBag.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Tent.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\AboutProgram.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\Feedback.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\AboutProgram.baml
+C:\Users\ursul\OneDrive\Робочий стіл\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\Feedback.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.exe
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.deps.json
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.runtimeconfig.json
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.runtimeconfig.dev.json
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\ref\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\TouristShop.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.AssemblyReference.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Buyer.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Distributor.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Tenant.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Backpack.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Caremat.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Clothes.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Dish.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Electronic.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Equipment.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Food.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Literature.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Shoe.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\SleapingBag.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Tent.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Buyer.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Distributor.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Tenant.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Backpack.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Caremat.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Clothes.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Dish.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Electronic.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Equipment.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Food.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Literature.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Shoe.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\SleapingBag.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Tent.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Buyer.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Distributor.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Exit.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Goods.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\MainMenu.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Setting.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\AboutProgram.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\Feedback.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Backpack.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Caremat.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Clothes.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Dish.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Electronic.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Equipment.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Food.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Literature.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Shoe.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\SleapingBag.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Tent.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop_MarkupCompile.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop_MarkupCompile.lref
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Buyer.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Distributor.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\ElsePages\Tenant.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Backpack.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Caremat.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Clothes.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Dish.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Electronic.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Equipment.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Food.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Literature.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Shoe.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\SleapingBag.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Add\Goods\Tent.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Buyer.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Distributor.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\ElsePages\Tenant.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Backpack.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Caremat.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Clothes.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Dish.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Electronic.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Equipment.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Food.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Literature.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Shoe.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\SleapingBag.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Edit\Goods\Tent.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Buyer.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Distributor.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Exit.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Goods.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\MainMenu.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElsePages\Setting.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\AboutProgram.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\Feedback.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Backpack.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Caremat.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Clothes.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Dish.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Electronic.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Equipment.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Food.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Literature.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Shoe.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\SleapingBag.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\Goods\Tent.baml
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.g.resources
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.AssemblyInfoInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.AssemblyInfo.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.CoreCompileInputs.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.csproj.CopyComplete
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\ref\TouristShop.dll
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.pdb
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\TouristShop.genruntimeconfig.cache
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\ChoiceTableForClear.g.cs
+C:\Users\ursul\OneDrive\Робочий стіл\Tourist Shop Project\TouristShop\TouristShop\obj\Debug\net5.0-windows\Views\Show\ElseSettings\ChoiceTableForClear.baml

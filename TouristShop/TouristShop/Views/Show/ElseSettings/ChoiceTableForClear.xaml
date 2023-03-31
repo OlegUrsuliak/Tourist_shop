@@ -1,0 +1,59 @@
+﻿<Window x:Class="TouristShop.Views.Show.ElseSettings.ChoiceTableForClear"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TouristShop.Views.Show.ElseSettings"
+        mc:Ignorable="d"
+        Title="ChoiceTableForClear" Height="450" Width="500">
+    <Grid>
+        <Grid Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            
+            
+            <Button x:Name="btnClearTent" Content="Tents" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="0" Margin="5" Click="btnClearTent_Click"/>
+            <Button x:Name="btnClearBackpack" Content="Backpacks" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="1" Margin="5" Click="btnClearBackpack_Click"/>
+            <Button x:Name="btnClearClothes" Content="Clother" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="2" Margin="5" Click="btnClearClothes_Click"/>
+            <Button x:Name="btnClearShoes" Content="Shoes" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="3" Margin="5" Click="btnClearShoes_Click"/>
+            <Button x:Name="btnClearSleapingBags" Content="Sleaping bags" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="4" Margin="5" Click="btnClearSleapingBags_Click"/>
+            <Button x:Name="btnClearCaremat" Content="Caremats" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="5" Margin="5" Click="btnClearCaremat_Click"/>
+            <Button x:Name="btnClearDishes" Content="Dishes" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="6" Margin="5" Click="btnClearDishes_Click"/>
+            <Button x:Name="btnClearLiterature" Content="Literature" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="7" Margin="5" Click="btnClearLiterature_Click"/>
+            <Button x:Name="btnClearEquipment" Content="Equipment" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="8" Margin="5" Click="btnClearEquipment_Click"/>
+            <Button x:Name="btnClearElectronica" Content="Electronika" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="9" Margin="5" Click="btnClearElectronica_Click"/>
+            <Button x:Name="btnClearFood" Content="Food" Grid.Column="0" Grid.ColumnSpan="5" Grid.Row="10" Margin="5" Click="btnClearFood_Click"/>
+
+            <Button x:Name="btnClearBuyer" Content="Tents" Grid.Column="5" Grid.ColumnSpan="5" Grid.Row="0" Margin="5" Click="btnClearBuyer_Click"/>
+            <Button x:Name="btnClearDistributor" Content="Backpacks" Grid.Column="5" Grid.ColumnSpan="5" Grid.Row="1" Margin="5" Click="btnClearDistributor_Click"/>
+            <Button x:Name="btnClearTenant" Content="Clother" Grid.Column="5" Grid.ColumnSpan="5" Grid.Row="2" Margin="5" Click="btnClearTenant_Click"/>
+            
+            <Button x:Name="btnClose" Content="Close" Grid.Column="6" Grid.ColumnSpan="3" Grid.Row="10" Margin="5" Click="btnClose_Click"/>
+        </Grid>
+
+    </Grid>
+</Window>

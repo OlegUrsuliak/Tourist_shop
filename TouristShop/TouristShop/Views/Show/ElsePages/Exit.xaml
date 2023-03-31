@@ -1,0 +1,54 @@
+﻿<Page x:Class="TouristShop.Views.Show.ElsePages.Exit"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:TouristShop.Views.Show.ElsePages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Exit">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image HorizontalAlignment="Left" Height="100" Margin="340,44,0,0" VerticalAlignment="Top" Width="100"/>
+
+        <Label x:Name="lblMainText" Content="Вхід" Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="3" FontSize="25" Margin="90,0,0,0" />
+        <TextBlock Background="red" Grid.Row="1" Grid.Column="4" Grid.RowSpan="4" Grid.ColumnSpan="3" />
+
+        <Label x:Name="lblLogin" Content="Login" Grid.Column="3" Grid.Row="5" />
+        <Label x:Name="lblPassword" Content="Password" Grid.Column="3" Grid.Row="6" />
+
+        <TextBox x:Name="txbLogin" Grid.Row="5" Grid.Column="4" FontSize="44" Grid.ColumnSpan="4" Background="LightGray" Margin="5"/>
+        <TextBox x:Name="txbPassword" Grid.Row="6" Grid.Column="4" FontSize="44" Grid.ColumnSpan="4" Background="LightGray" Margin="5"/>
+
+        <Button x:Name="btnEnter" ToolTip="Exit in program" Content="Вхід" Grid.Row="7" Grid.Column="3" Grid.ColumnSpan="2" Margin="5" Click="btnEnter_Click"/>
+        <Button x:Name="btnExit" Content="Відмінити" Grid.Row="7" Grid.Column="6" Grid.ColumnSpan="2" Margin="5" Click="btnExit_Click"/>
+
+        <Button x:Name="btnForgotPassword" Grid.Row="8" Grid.Column="4" Grid.ColumnSpan="3" Content="Забули пароль?" Margin="10" Click="btnForgotPassword_Click"/>
+    </Grid>
+</Page>
